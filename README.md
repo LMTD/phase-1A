@@ -1,28 +1,32 @@
-# phase-one
-Foundational DevOps: Linux, Python, and Cloud Computing with AWS
+# LMTD - Phase One
+Intro to Cloud Technology & Foundational Cloud/DevOps Concepts
+Linux, Python, and Cloud Computing with AWS
 
 # Foundations of DevOps
 
-**Instructors:** Cam Flowers and Shafan Sugarman  
+**Instructors:** Cam Flowers and Shafan Sugarman
+**Program Dates:** July 6th - August 29th 
 **Class Times:** TU, TH, FR 6:00-9:00 p.m. & SA 10 a.m.- 5:00 p.m.  
-**TA Office Hours:** Everyday 5-6 p.m.  
+**TA Office Hours:** Everyday 5:00-6:00 p.m.  
 
 ## Rationalle
 
-Some of the most exciting technological developments are occuring via cloud-based services deployed across the full tech stack. In this course we will discuss the fundamentals of cloud based programming in Linux and Python and learn the essentials of modern cloud development using AWS. 
+Some of the most exciting technological developments are occuring via cloud-based services deployed across the full tech stack. In this first phase of our program we will discuss the fundamentals of cloud-based programming using Linux, Python and deploy essential services utilizing AWS. 
 
 ## Course Aims and Outcomes 
 ### Aims
 As a result of participating in this course, you will be able to explain the fundamental architecture of a cloud based tech stack, demonstrate proficiency in the fundamental scripting languages (BASH, Python), and create cloud based applications using modern frameworks in preparation for a healthy career in DevOps and related fields. 
 
 ### Specific Learning Outcomes
-By the end of this course, students will be well-versed in the fundamentals of cloud-based programming in Python. They will be introduced to the Linux Operating System and learn to write scripts that communicate with the kernel. Building on this foundation, Python scripting frameworks are introduced; students will learn the concepts, syntax, and benefits of contemporary cloud computing (e.g. Virtualization, Cloud Storage, Cloud Monitoring). Students will be able to develop interactive applications by the midterm of the course. The course will also introduce back-end web application concepts such as databases, application servers and cloud based hosting. By the completion of the course, students will be able to develop cloud managed applications and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
+By the end of this course, you will be well-versed in the fundamentals of cloud-based programming in Python. You will be introduced to the Linux Operating System and learn to write scripts that communicate with the kernel. Building on this foundation, Python scripting frameworks are introduced; you will learn the concepts, syntax, and benefits of contemporary cloud computing (e.g. Virtualization, Cloud Storage, Cloud Monitoring). You will be able to develop interactive applications by the midterm of the course. The course will also introduce back-end web application concepts such as databases, application servers and cloud based hosting. By the completion of the course, you will be able to develop cloud managed applications and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
 
 ## Format and Procedures
 This course meets three times a week and once on the weekend to facilitate both lecture and lab components of instruction. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over written homework or assessments.
 
 ## Assumptions
-This course has no prerequisite courses; however, students are expected to be proficient in general programming principles and able to code in at least one language. Such experience will ensure that students are able to expediently learn new programming languages as they are introduced in this course. Additionally there is a guide of recommended precourse work available [here](./resources/precourse/README.md)
+This course has no prerequisite courses; however, you are expected to be proficient in general programming principles and able to code in at least one language. Such experience will ensure that you are able to expediently learn new programming languages as they are introduced in this course. 
+
+Additionally there is a guide of recommended precourse work available [here](./resources/precourse/README.md)
 
 
 ## Course Requirements
@@ -64,7 +68,7 @@ Student evaluations in this course will be assigned as follows:
 - **Lab 3 -- Intermediate Python**
   - Intermediate Python
   - Intents:
-    - Demonstrate ability to develop a full python application
+    - Demonstrate ability to develop a full Python application
     - Demonstrate ability to import Python modules
     - Demonstrate ability to update and retrieve stored data
     - Practice code collaboration
