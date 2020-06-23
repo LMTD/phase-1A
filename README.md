@@ -5,8 +5,8 @@ Linux, Python, and Cloud Computing with AWS
 # Foundations of DevOps
 
 **Instructors:** Cam Flowers and Shafan Sugarman
-**Program Dates:** July 6th - August 29th 
-**Class Times:** TU, TH, FR 6:00-9:00 p.m. & SA 10 a.m.- 5:00 p.m.  
+**Program Dates:** July 6th - August 29th
+**Class Times:** TU, TH, FR 6:00-9:00 p.m. & SA 10 a.m.- 5:00 p.m.
 **TA Office Hours:** Everyday 5:00-6:00 p.m.  
 
 ## Rationalle
