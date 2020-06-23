@@ -28,11 +28,9 @@ The goal of this unit is to get us familiar with the course goals, rules and str
 *[Why is Networking Important?](http://www.digitaldividecouncil.com/why-is-computer-networking-important/)
 
 ## Unit 2 Prep - Readings & Resources
-*[Object Oriented Programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260)
-
-*[Intro to Python](https://www.w3schools.com/python/python_intro.asp)
-
-*[Learn Python Basics](https://www.learnpython.org)
+* [Object Oriented Programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260)
+* [Intro to Python](https://www.w3schools.com/python/python_intro.asp)
+* [Learn Python Basics](https://www.learnpython.org)
 
 
 
