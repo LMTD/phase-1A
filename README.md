@@ -10,7 +10,7 @@ Linux, Python, and Cloud Computing with AWS
 
 **Class Times:** TU, TH, FR 6:00-9:00 p.m. & SA 10 a.m.- 5:00 p.m.
 
-**TA Office Hours:** Everyday 5:00-6:00 p.m.  
+**TA Office Hours:** Wednesdays 4:00-6:00 p.m.  
 
 ## Rationalle
 
