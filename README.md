@@ -97,7 +97,7 @@ Lecture | Date | Content | README | Assigned | Due
 5 | Week 5 | Intro to AWS | [Unit 4](./unit4/README.md) | Project 1 | Lab 4
 6 | Week 6 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | Project 2 | Project 1
 7 | Week 7 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | Project 2 | --
-8 | Week 8 | Final Projects | -- | -- | Project 2
+8 | Week 8 | Final Projects | -- | Project 2 | Project 2
 
 Due
 -- | TBA | -- | -- | -- | Final Showcase
