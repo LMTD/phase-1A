@@ -93,11 +93,11 @@ Lecture | Date | Content | README | Assigned | Due
 1 | Week 1 | Linux OS | [Unit 1](./unit1/README.md) | Lab 1 | [Precourse Work](./resources/precourse)
 2 | Week 2 | Python Fundamentals | [Unit 2](./unit2/README.md) | Lab 2 | Lab 1
 3 | Week 3 | Python Fundamentals | [Unit 2](./unit2/README.md) | Lab 3 | Lab 2
-4 | Week 4 | Relational Databases | [Unit 3](./unit3/README.md) | [Project 1]() | Lab 3
-5 | Week 5 | Intro to AWS | [Unit 4](./unit4/README.md) | [Project 1]() | Lab 4
-6 | Week 6 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | [Project 2]() | [Project 1]()
-7 | Week 7 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | [Project 2]() | --
-8 | Week 8 | Final Projects | -- | -- | [Project 2]()
+4 | Week 4 | Relational Databases | [Unit 3](./unit3/README.md) | [Project 1] | Lab 3
+5 | Week 5 | Intro to AWS | [Unit 4](./unit4/README.md) | [Project 1] | Lab 4
+6 | Week 6 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | [Project 2] | [Project 1]
+7 | Week 7 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | [Project 2] | --
+8 | Week 8 | Final Projects | -- | -- | [Project 2]
 
 Due
 -- | TBA | -- | -- | -- | Final Showcase
