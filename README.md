@@ -12,7 +12,7 @@ Linux, Python, and Cloud Computing with AWS
 
 **TA Office Hours:** Wednesdays 4:00-6:00 p.m.  
 
-## Rationalle
+## Rationale
 
 Some of the most exciting technological developments are occuring via cloud-based services deployed across the full tech stack. In this first phase of our program we will discuss the fundamentals of cloud-based programming using Linux, Python and deploy essential services utilizing AWS. 
 
