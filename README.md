@@ -96,7 +96,7 @@ May change to accommodate guest presenters & student needs.
 
 Week | Date | Content | README | Slides | Assigned | Due
 --|--|--|--|--|--|--
-0 | 6/26 - 7/7 | Onboarding | [Unit 0]() | [Day One](https://docs.google.com/presentation/d/1cg3LTSJG5KnLLk20gjdVVmDQ57k0NuK83JKDDDjo6Fs/edit?usp=sharing) | [Precourse Work](./resources/precourse) | --
+0 | 6/26 - 7/7 | Onboarding | [Unit 0]() | [Day One](https://docs.google.com/presentation/d/1cg3LTSJG5KnLLk20gjdVVmDQ57k0NuK83JKDDDjo6Fs/edit?usp=sharing) | -- | [Precourse Work](./resources/precourse)
 1 | 7/9 - 7/11 | Linux OS | [Unit 1](./unit1/README.md) |  | Lab 1 | [Precourse Work](./resources/precourse)
 2 | 7/14 - 7/18 | Python Fundamentals | [Unit 2](./unit2/README.md) |  | Lab 2 | Lab 1
 3 | 7/21 - 7/25 | Python Fundamentals | [Unit 2](./unit2/README.md) |  | Lab 3 | Lab 2
