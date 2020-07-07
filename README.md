@@ -96,14 +96,14 @@ May change to accommodate guest presenters & student needs.
 
 Week | Date | Content | README | Slides | Assigned | Due
 --|--|--|--|--|--|--
-0 | 6/26 - 7/7 | Onboarding | [Unit 0]() | [Day One](https://docs.google.com/presentation/d/1cg3LTSJG5KnLLk20gjdVVmDQ57k0NuK83JKDDDjo6Fs/edit?usp=sharing) | -- | [Precourse Work](./resources/precourse)
-1 | 7/9 - 7/11 | Linux OS | [Unit 1](./unit1/README.md) |  | Lab 1 | [Precourse Work](./resources/precourse)
-2 | 7/14 - 7/18 | Python Fundamentals | [Unit 2](./unit2/README.md) |  | Lab 2 | Lab 1
-3 | 7/21 - 7/25 | Python Fundamentals | [Unit 2](./unit2/README.md) |  | Lab 3 | Lab 2
-4 | 7/28 - 8/1  | Relational Databases | [Unit 3](./unit3/README.md) |  | Project 1 | Lab 3
-5 | 8/4 - 8/8 | Intro to AWS | [Unit 4](./unit4/README.md) |  | Project 1 | --
-6 | 8/11 - 8/15 | AWS Cloud Computing | [Unit 4](./unit4/README.md) |  | Project 2 | Project 1
-7 | 8/18 - 8/22 | AWS Cloud Computing | [Unit 4](./unit4/README.md) |  | Project 2 | --
+0 | 6/26 - 7/7 | Onboarding | -- | [Day One](https://docs.google.com/presentation/d/1cg3LTSJG5KnLLk20gjdVVmDQ57k0NuK83JKDDDjo6Fs/edit?usp=sharing) | -- | [Precourse Work](./resources/precourse)
+1 | 7/9 - 7/11 | Linux OS | [Unit 1](./unit1/README.md) | -- | Lab 1 | --
+2 | 7/14 - 7/18 | Python Fundamentals | [Unit 2](./unit2/README.md) | -- | Lab 2 | Lab 1
+3 | 7/21 - 7/25 | Python Fundamentals | [Unit 2](./unit2/README.md) | -- | Lab 3 | Lab 2
+4 | 7/28 - 8/1  | Relational Databases | [Unit 3](./unit3/README.md) | -- | Project 1 | Lab 3
+5 | 8/4 - 8/8 | Intro to AWS | [Unit 4](./unit4/README.md) | -- | Project 1 | --
+6 | 8/11 - 8/15 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | -- | Project 2 | Project 1
+7 | 8/18 - 8/22 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | -- | Project 2 | --
 8 | 8/25 - 8/29 | Final Projects | -- | -- | Project 2 | Project 2
 
 Due
