@@ -24,12 +24,12 @@ As a result of participating in this course, you will be able to explain the fun
 By the end of this course, you will be well-versed in the fundamentals of cloud-based programming in Python. You will be introduced to the Linux Operating System and learn to write scripts that communicate with the kernel. Building on this foundation, Python scripting frameworks are introduced; you will learn the concepts, syntax, and benefits of contemporary cloud computing (e.g. Virtualization, Cloud Storage, Cloud Monitoring). You will be able to develop interactive applications by the midterm of the course. The course will also introduce back-end web application concepts such as databases, application servers and cloud based hosting. By the completion of the course, you will be able to develop cloud managed applications and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
 
 ## Format and Procedures
-This course meets three times a week and once on the weekend to facilitate both lecture and lab components of instruction. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over written homework or assessments.
+This course meets three times a week and once on the weekend to facilitate both lecture and lab components of instruction. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over written homework or assessments. Sessions will not be recorded by default, though some materials may be pre-recorded to facilitate instruction. 
 
 ## Assumptions
-This course has no prerequisite courses; however, you are expected to be proficient in general programming principles and able to code in at least one language. Such experience will ensure that you are able to expediently learn new programming languages as they are introduced in this course. 
+This course has no prerequisite courses; however, you are expected to expediently learn new programming languages as they are introduced in this course. 
 
-Additionally there is a guide of recommended precourse work available [here](./resources/precourse/README.md)
+There is a guide of recommended precourse work available [here](./resources/precourse/README.md)
 
 
 ## Course Requirements
