@@ -1,6 +1,5 @@
 # LMTD Phase One - Unit One - Linux OS
 Understanding the Linux Operating System
-[Unit Slides]()
 
 ## About This Unit
 The Linux kernel has found its way into an incredible number of diverse systems. It can now be found in everything from automobiles to rockets, watches to televisions, and netbooks to the fastest supercomputers. Since Linux has now become so ubiquitous, even those who plan on working primarily with systems not utilizing the Linux kernel can benefit from having a basic understanding of the terminal.
