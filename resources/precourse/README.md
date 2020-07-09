@@ -25,7 +25,8 @@ The goal of this unit is to get us familiar with the course goals, rules and str
 * [Understanding the difference between UNIX and LINUX](https://opensource.com/article/18/5/differences-between-linux-and-unix)
 * [Ubuntu over Windows](https://askubuntu.com/questions/360161/what-advantages-does-ubuntu-have-over-windows-as-an-environment-for-programming)
 * [Linux Directory Structure](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
-*[Why is Networking Important?](http://www.digitaldividecouncil.com/why-is-computer-networking-important/)
+* [Why is Networking Important?](http://www.digitaldividecouncil.com/why-is-computer-networking-important/)
+* [Learn by playing -- test your knowledge of Linux with Bandit!](https://overthewire.org/wargames/bandit/)
 
 ## Unit 2 Prep - Readings & Resources
 * [Object Oriented Programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260)
