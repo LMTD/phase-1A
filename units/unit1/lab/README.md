@@ -66,23 +66,28 @@ You can definitely use the Linux VM on NETACAD to practice your own commands. Bu
 ## Lab Assignment
 
 ### Script 1: STDIN & STDOUT
-Write a script that reads user submitted input from the command line and prints the value back out for the user. 
+Write a script that reads user submitted input from the command line and prints the value back out for the user.
+
 Ex: Reading a user's name and printing a nice message back with it! 
 
 ### Script 2: Variables / CONDITIONALS
-Write a script that utilizes an if/else statement to compare some values and perform an action based on *variables* inputted by the user. 
+Write a script that utilizes an if/else statement to compare some values and perform an action based on *variables* inputted by the user.
+
 EX: Asking a yes/no question, taking a user's response as input, and performing a command based on their answer.
 
 ### Script 3: LOOPS
 Write a script that uses a basic *for-loop* or a *while-loop* to run commands in a loop.
+
 EX: Asking the user for their favorite number, and using it as a variable in a loop that prints a character like `*` that many times. 
 
 ### Script 4: FUNCTIONS / COMMAND ARGUMENTS
-Write a script that defines and uses a function with arguments from the command line. 
+Write a script that defines and uses a function with arguments from the command line.
+
 EX: A script that takes two arguments and performs a mathematical function like add/multiply.
 
 ### Script 5: READING FROM FILE / REDIRECTION
 Write a script that reads from a file and redirects the output to a different file.
+
 EX: Read in a list of names & output those starting with a certain letter to a new file.  
 
 ### Group Challenge 1 - Create a Command Line Text Adventure Game
