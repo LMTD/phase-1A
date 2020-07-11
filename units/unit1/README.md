@@ -36,7 +36,7 @@ command [options…] [arguments…]
 
 
 ## Learning Linux Commands
-Let's use [Linux Survival](https://linuxsurvival.com) to develop our knowledge of essential Linux commands
+You can use [Linux Survival](https://linuxsurvival.com) to develop knowledge of essential Linux commands.
 
 ## Resources
 * [Linux Directory Structure](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)

@@ -94,9 +94,10 @@ Another great challenge as a group would be to think of a way to use Linux to cr
 Here is a [cheat sheet](https://devhints.io/bash) to help you get started writing your commands! 
 
 ## Submission
-Please share a copy of your group's REPL link to us via the Lab submission form shared in Slack when you've finished.
+Please share a copy of your group's REPL link to us via the Lab submission form shared in Slack when you've finished. Continue to work on the NETACAD Linux Essentials until our next class on Tuesday!
 
 ## Resources
+* [UNIX/LINUX Command Guide](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Shell Script Beginner's Guide](https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609)
 * [Learn Bash in Y Minutes](https://learnxinyminutes.com/docs/bash/)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
