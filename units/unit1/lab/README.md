@@ -30,12 +30,11 @@ The first line of the script is important. This is called a shebang. It tells th
 
 ### Example Shell Script
 
-`#!/bin/bash`
-
-`# My Awesome Script`
-
-`echo "Hello World!"`
-
+```
+#!/bin/bash
+# My Awesome Script
+echo "Hello World!"
+```
 The second line is a comment. Anything appearing after a "#" symbol is ignored by bash when it's running. Use comments as your scripts get larger and more complicated so that other programmers can understand what is going on. The third line should be no surprise to most of you. This script uses the `echo` command to print "Hello World!" to the command line using STDOUT. 
 
 ### Setting Permissions
