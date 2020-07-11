@@ -97,7 +97,7 @@ May change to accommodate guest presenters & student needs.
 Week | Date | Content | README | Slides | Assigned | Due
 --|--|--|--|--|--|--
 0 | 6/26 - 7/7 | Onboarding | -- | [Day One](https://docs.google.com/presentation/d/1cg3LTSJG5KnLLk20gjdVVmDQ57k0NuK83JKDDDjo6Fs/edit?usp=sharing) | -- | [Precourse Work](./resources/precourse)
-1 | 7/9 - 7/11 | Linux OS | [Unit 1](./unit1/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Lab 1 | --
+1 | 7/9 - 7/11 | Linux OS | [Unit 1](./unit1/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | [Lab 1](./unit1/lab/README.md) | --
 2 | 7/14 - 7/18 | Python Fundamentals | [Unit 2](./unit2/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Lab 2 | Lab 1
 3 | 7/21 - 7/25 | Python Fundamentals | [Unit 2](./unit2/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Lab 3 | Lab 2
 4 | 7/28 - 8/1  | Relational Databases | [Unit 3](./unit3/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 1 | Lab 3
