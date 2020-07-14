@@ -30,10 +30,11 @@ The first line of the script is important. This is called a shebang. It tells th
 
 ### Example Shell Script
 
-`#!/bin/bash`
-`# My Awesome Script`
-`echo "Hello World!"`
-
+```
+#!/bin/bash
+# My Awesome Script
+echo "Hello World!"
+```
 The second line is a comment. Anything appearing after a "#" symbol is ignored by bash when it's running. Use comments as your scripts get larger and more complicated so that other programmers can understand what is going on. The third line should be no surprise to most of you. This script uses the `echo` command to print "Hello World!" to the command line using STDOUT. 
 
 ### Setting Permissions
@@ -65,7 +66,8 @@ You can definitely use the Linux VM on NETACAD to practice your own commands. Bu
 ## Lab Assignment
 
 ### Script 1: STDIN & STDOUT
-Write a script that reads user submitted input from the command line and prints the value back out for the user. 
+Write a script that reads user submitted input from the command line and prints the value back out for the user.
+
 Ex: Reading a user's name and printing a nice message back with it! 
 
 ```
@@ -118,7 +120,8 @@ done
 ```
 
 ### Script 4: FUNCTIONS / COMMAND ARGUMENTS
-Write a script that defines and uses a function with arguments from the command line. 
+Write a script that defines and uses a function with arguments from the command line.
+
 EX: A script that takes two arguments and performs a mathematical function like add/multiply.
 ```
 #group4
