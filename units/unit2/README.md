@@ -1,4 +1,4 @@
-# LMTD Phase One - Unit One - Python
+# LMTD Phase One - Unit Two - Python
 Understanding the Python programming language
 
 ## Introduction to Python (from [Real Python](https://realpython.com))
@@ -6,10 +6,6 @@ Understanding the Python programming language
 
 Check out [Real Python](https://realpython.com) to learn more about Python and web development."
 
-### Assigning Variables
-```
-
-```
 
 ### Primitives and Data Types
 #### Numbers, Strings, and Booleans
