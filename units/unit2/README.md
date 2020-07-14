@@ -1,7 +1,7 @@
 # LMTD Phase One - Unit Two - Python
 Understanding the Python programming language
 
-## Introduction to Python (from [Real Python](https://realpython.com))
+## Introduction to Python (from [Real Python](https://realpython.com/learning-paths/python3-introduction/)
 "Python is a beautiful language. It’s easy to learn and fun, and its syntax is simple yet ele- gant. Python is a popular choice for beginners, yet still powerful enough to back some of the world’s most popular products and applications from companies like NASA, Google, Mozilla, Cisco, Microsoft, and Instagram, among others. Whatever the goal, Python’s design makes the programming experience feel almost as natural as writing in English.
 
 Check out [Real Python](https://realpython.com) to learn more about Python and web development."
@@ -228,4 +228,5 @@ TODO: Print the user's story to the command line
 ## Resources
 * [Python practice exercises](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 * [W3Schools - Learn Python for Free](https://www.w3schools.com/python/python_getstarted.asp)
+* [More Python Knowledge](https://realpython.com/learning-paths/python3-introduction/)
 
