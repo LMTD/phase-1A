@@ -68,27 +68,142 @@ You can definitely use the Linux VM on NETACAD to practice your own commands. Bu
 Write a script that reads user submitted input from the command line and prints the value back out for the user. 
 Ex: Reading a user's name and printing a nice message back with it! 
 
+```
+#group3
+#!/bin/bash
+
+echo Please enter your name
+read name
+echo hello, $name
+
+```
+
 ### Script 2: Variables / CONDITIONALS
 Write a script that utilizes an if/else statement to compare some values and perform an action based on *variables* inputted by the user. 
-EX: Asking a yes/no question, taking a user's response as input, and performing a command based on their answer.
+EX: Asking for a user's response as input, and performing a command based on their answer.
+```
+#group5
+#!/bin/bash
+
+echo Input your first number
+read variableA
+echo Input your second number
+read variableB
+
+
+
+if [ $variableA -lt $variableB ]; then
+  echo "$variableA is less than $variableB"
+elif [ $variableB -lt $variableA ];then
+  echo "$variableB is less than $variableA"
+else
+  echo "They are equal."
+fi
+
+```
 
 ### Script 3: LOOPS
 Write a script that uses a basic *for-loop* or a *while-loop* to run commands in a loop.
-EX: Asking the user for their favorite number, and using it as a variable in a loop that prints a character like `*` that many times. 
+EX: Asking the user for their favorite number, and using it as a variable in a loop that prints a character like `$` that many times. 
+```
+#goup1
+#!/bin/bash
+echo "How many dollar signs would you like to print?"
+read amount
+
+for ((i = 0 ; i < $amount ; i++)); do
+echo "$"
+done
+
+```
 
 ### Script 4: FUNCTIONS / COMMAND ARGUMENTS
 Write a script that defines and uses a function with arguments from the command line. 
 EX: A script that takes two arguments and performs a mathematical function like add/multiply.
+```
+#group4
+#!/bin/bash
+# Setting a return status for a function
+
+echo "Please enter the width, length, and the height of your box to calculate the volume"
+echo Width:
+  read -r width
+echo Height:
+  read -r height
+echo Length:
+  read -r length
+volume() {
+  vol=$width*$height*$length
+  echo "The volume of the box is $vol"
+
+} 
+
+volume
+```
 
 ### Script 5: READING FROM FILE / REDIRECTION
 Write a script that reads from a file and redirects the output to a different file.
-EX: Read in a list of names & output those starting with a certain letter to a new file.  
+EX: Read in a list of text & output some items to a new file. 
+```
+#group2
+#example.txt
+
+ab
+abc
+3sfs
+asdjfai3
+jaiej
+23jijsf
+j3ij
+12fis
+asf123
+Z
+asdf@FSDF32
+
+```
+
+```
+#! /bin/bash
+
+file="./example.txt"
+
+
+while read -r line
+do  
+    if [[ ! $line =~ ^[0-9] ]] #names don't start with numbers
+    then 
+        echo $line >> out.txt
+    fi
+
+    if [[ $line =~ ^[a-zA-Z] ]] #start with letter
+    then 
+        echo "Start with letters:  $line"
+    fi
+
+    if [[ $line =~ [0-9]$ ]] #end with numbers
+    then 
+        echo "End with numbers: $line"
+    fi
+
+    if [[ $line =~ [@] ]] #contains @ sign
+    then 
+        echo "Contains @ sign: $line"
+    fi
+
+done < $file
+
+```
 
 ### Group Challenge 1 - Create a Command Line Text Adventure Game
 If you're looking for a challenge as a group, think of a fun way to combine all of the above concepts into an interactive experience for the user on the command line. For instance in a REPL.it(https://repl.it/languages/bash) BASH instance, run the following command `git clone https://gitlab.com/slackermedia/bashcrawl.git` to download a copy of an interactive command line game called Bashcrawl which teaches folks about Linux. The game uses shell scripts to teach users about Linux commands. You don't need to play the entire game or recreate the educational aspect of what it's doing but can use it as an example of a command line text adventure game that uses multiple Linux concepts to create an interactive experience for users. What can you all build when you put your minds together?
 
+Check out a solution by Group 5: https://repl.it/@camunity/UnknownSpecializedDictionary#Lab1-Challenge2/lab1-Challenge2.sh
+
 ### Group Challenge 2 - Write a Shell Script that customizes an HTML and CSS file
 Another great challenge as a group would be to think of a way to use Linux to create an HTML (index.html) and CSS (index.css) file with either inputs from the user on the command line, or by reading in a `config.txt` file using Linux. HTML and CSS files have very specific structures that you can build cleverly using a few Linux commands. Take a look at an example on how the HTML/CSS files should look and connect [here](https://www.quackit.com/css/external_style_sheets.cfm). You can use Linux to customize a few HTML elements in the HTML body if you want to get fancy. Once the files are created you can also test how they look on REPL by [opening an HTML/CSS instance](https://repl.it/languages/html) and pasting your work there to see it live. 
+
+Check out a solution by Group 2: https://repl.it/@HaoranHe/Group2#challenge2.sh
+
 
 ## Cheat Sheet
 Here is a [cheat sheet](https://devhints.io/bash) to help you get started writing your commands! 
