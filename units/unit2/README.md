@@ -214,6 +214,8 @@ I love red I love green I love blue
 
 ### Group Challenge with Python Functions
 
+#### Challenge One (Input and String Formatting)
+
 You and a partner will try to use your knowledge of Python to create a MadLib function.
 
 HOW-TO: Create a multi-line string variable called my_story which contains a short story about an animal in a specific borough of New York, performing some action involving one specific type of food.
@@ -223,6 +225,31 @@ TODO: Ask the user through the command line for their picks for 'animal', 'borou
 TODO: Create a Python program that swaps those items in your story
 
 TODO: Print the user's story to the command line
+
+#### Challenge Two (Input and Boolean Logic)
+
+Make a two-player Rock-Paper-Scissors game. (Hint: Ask for player plays (using input), compare them, print out a message of congratulations to the winner, and ask if the players want to start a new game)
+
+Remember the rules:
+* Rock beats scissors
+* Scissors beats paper
+* Paper beats rock
+
+#### Challenge Three (Dictionaries)
+
+Create a dictionary (in your file) of names and birthdays. When you run your program it should ask the user to enter a name, and return the birthday of that person back to them. The interaction should look something like this:
+
+>>> Welcome to the birthday dictionary. We know the birthdays of:
+Albert Einstein
+Benjamin Franklin
+Ada Lovelace
+>>> Who's birthday do you want to look up?
+Benjamin Franklin
+>>> Benjamin Franklin's birthday is 01/17/1706.
+
+#### Challenge Four (List Operations)
+
+Write a function called is_palindrome that determines whether a given string is a palindrome and returns True or False. A palindrome is a word that is spelled the same forward, and backward (i.e. "WOW", "MOM", "RACECAR") 
 
 
 ## Resources
