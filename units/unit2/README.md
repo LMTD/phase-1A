@@ -252,6 +252,14 @@ Benjamin Franklin
 Write a function called is_palindrome that determines whether a given string is a palindrome and returns True or False. A palindrome is a word that is spelled the same forward, and backward (i.e. "WOW", "MOM", "RACECAR") 
 
 
+#### Challenge Five (Classes)
+
+Write a Python class named Rectangle constructed by a length and width and a method which will compute the area of a rectangle. 
+
+Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle. 
+
+Write a Python class named Triangle constructed by a base and a height, a list of angles, and a method to calculate the area of a triangle.
+
 ## Resources
 * [Python practice exercises](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 * [W3Schools - Learn Python for Free](https://www.w3schools.com/python/python_getstarted.asp)
