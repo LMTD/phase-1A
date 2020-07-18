@@ -149,7 +149,7 @@ box1.ship_to("Cam")
 
 ```
 
-### Special Methods (dunder functions)
+### Special Methods (dunder/magic functions)
 When you create classes it's a good idea to have a method that returns a string containing userful info about the instance of the class. For instance when we run: `print([1,2,3])` we get a string that looks like a list.
 
 You can use the special instance method called: `.__str__()` to achieve this functionality with your custom classes.
@@ -185,7 +185,7 @@ box1.area()
 box1.ship_to("Cam")
 
 ```
-Methods like `.__init__` or `.__str__` are called **dunder methods** because of their use of double underscores at the beginning and end of the function name. There are many dunder methods you can use in Python which you can check out [here]()
+Methods like `.__init__` or `.__str__` are called **dunder methods** because of their use of double underscores at the beginning and end of the function name. There are many dunder methods you can use in Python which you can check out [here](https://dbader.org/blog/python-dunder-methods)
 
 ### Inheritance
 
