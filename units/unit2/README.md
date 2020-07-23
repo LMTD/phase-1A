@@ -210,6 +210,63 @@ I love red I love green I love blue
 
 ```
 
+### File Handling
+
+Python makes it easy for us to interact with files of various formats.
+
+#### Opening and Closing a File
+
+##### Opening a File
+```
+my_file = open('data.txt', 'w')
+
+```
+In order to open a file you use the `open()` function and pass in a filename that represents the relative or absolute path to the file you're referencing, and an argument that determines the mode of opening. There are different modes, which determine the actions you're able to do with the open file.
+
+Some modes include:
+mode | description
+--|--
+r | (default) mode to open file for reading
+w | open the file for writing (overwriting any existing data)
+x | creates a new file (fails if file already exists)
+a | open the file for writing (appending new data to the end)
+b | write binary data to files
++ | allow reading and writing to a mode (ex: `w+` allows writing then reading)
+
+##### Closing a File
+```
+my_file.close()
+
+```
+To close a file, you can call the `close()` function on the object you created when opening. It is important to close the file after you've used it in order to save CPU space and evade data corruption possibilities.
+
+In order to make it easier to automatically close files after Python has used it you can use the `with` keyword like so:
+
+```
+with open('data.txt', 'w') as my_file:
+        pass # you can write code to handle the file here
+
+```
+
+Using the `with` keyword is the recommended approach for opening files.
+
+#### Saving to a Text File
+```
+with open('data.txt', 'w') as my_file:
+        my_file.write('Hello World!\n')
+        my_file.write('We're writing to a file!\n')
+```
+The `write()` function takes in a string and puts the content into our file. We insert a newline character `\n` into the string in order to make sure the text is added to new lines.
+
+##### Saving Multiple Lines
+```
+with open('data.txt', 'w') as my_file:
+        fruits = ['Apple\n', 'Banana\n', 'Cherry\n']
+        my_file.writelines(fruits)
+```
+The `writelines()` function takes in a sequence of strings or bytes and puts the content into our file. This function does not work with other data types and objects however.
+
+
 ### In Class Exercises
 
 ### Group Challenge with Python Functions
@@ -264,4 +321,5 @@ Write a Python class named Triangle constructed by a base and a height, a list o
 * [Python practice exercises](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 * [W3Schools - Learn Python for Free](https://www.w3schools.com/python/python_getstarted.asp)
 * [More Python Knowledge](https://realpython.com/learning-paths/python3-introduction/)
-
+* [Saving Text/JSON/CSV to a file](https://stackabuse.com/saving-text-json-and-csv-to-a-file-in-python/)
+* [Python File Handling](https://www.w3schools.com/python/python_file_handling.asp)
