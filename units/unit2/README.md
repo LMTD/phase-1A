@@ -70,6 +70,13 @@ Check out [Real Python](https://realpython.com) to learn more about Python and w
 #You can format/create strings with the format() method.
 >>>"{0} is a lot of {1}".format("Python", "fun!") 
 'Python is a lot of fun!'
+
+# you can also use """ """ to create multi-line strings
+paragraph = """This is a random string
+but the difference is that
+this one spans multiple
+
+lines ..."""
 ```
 
 
@@ -208,6 +215,24 @@ I love red I love green I love blue
 >>> multiply(2)
 20
 
+```
+
+### Printing and Receiving Input
+```
+# Use the print() function to write output to the console
+x, y, z = "Orange", "Banana", "Cherry"
+
+print(x)
+print(y)
+print(z)
+
+# Use the input() function to obtain information from the user through the console
+
+# Obtaining user input
+#****************
+#****************
+name = input("Enter your name:")
+print("Hello, {}".format(name))
 ```
 
 ### File Handling
