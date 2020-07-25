@@ -99,7 +99,7 @@ Week | Date | Content | README | Slides | Assigned | Due
 0 | 6/26 - 7/7 | Onboarding | -- | [Day One](https://docs.google.com/presentation/d/1cg3LTSJG5KnLLk20gjdVVmDQ57k0NuK83JKDDDjo6Fs/edit?usp=sharing) | -- | [Precourse Work](./resources/precourse)
 1 | 7/9 - 7/11 | Linux OS | [Unit 1](./units/unit1/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | [Lab 1](./units/unit1/lab/README.md) | --
 2 | 7/14 - 7/18 | Python Fundamentals | [Unit 2](./units/unit2/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | [Lab 2](./units/unit2/lab2/README.md) | [Lab 1](./units/unit1/lab1/README.md)
-3 | 7/21 - 7/25 | Python Fundamentals | [Unit 2](./units/unit2/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Lab 3 | [Lab 3](./units/unit2/lab3/README.md)
+3 | 7/21 - 7/25 | Python Fundamentals | [Unit 2](./units/unit2/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | [Lab 3](./units/unit2/lab3/README.md) | [Lab 3](./units/unit2/lab3/README.md)
 4 | 7/28 - 8/1  | Relational Databases | [Unit 3](./unit3/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 1 | Lab 3
 5 | 8/4 - 8/8 | Intro to AWS | [Unit 4](./unit4/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 1 | --
 6 | 8/11 - 8/15 | AWS Cloud Computing | [Unit 4](./unit4/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 2 | Project 1
