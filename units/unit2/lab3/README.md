@@ -1,4 +1,4 @@
-# LMTD Phase One - Unit Two - Lab 2
+# LMTD Phase One - Unit Two - Lab 3
 OOP & REST API Requests
 
 ## About This Lab
