@@ -63,16 +63,18 @@ AWS stands for Amazon Web Services. AWS is a range of computing products that al
 
 
 ### Core AWS Services
-#### EC2
-EC2 is the flagship AWS product, and it’s where most of current AWS revenue comes from. EC2 stands for Elastic Compute Cloud think of it as a way to run a computer in the cloud. You can launch Linux machines, or Windows machines all on top of EC2. On EC2 you can run many different types of workloads. You can install WordPress, to run a website. Or you can install a database and store data, all directly on an EC2 machine. In fact, nearly everything you can imagine can be ran on EC2.
-
 #### IAM
 AWS IAM is how you manage permissions and access in AWS. In order to launch your EC2 instance from before, you need to have a user that has the appropriate access to do so. And to get access you need to use AWS IAM. Within IAM you’ve got: users, groups, roles and policies and they’re all related somehow.
 
 But, IAM is deceptively complex. IAM isn’t only how users get access to do things in AWS, it’s also how you grant machines to talk to each other. For instance, if we look at EC2 again, an EC2 machine can be assigned a role. And that role then governs what that EC2 can and can’t do.
 
+[AWS Identity and Access Management User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/iam-ug.pdf#tutorials)
+
 #### S3
-S3 is another deceptively versatile service, which allows you to store files in a flexible way. S3 can be used to host websites, store assets such as images, and even log files for your application. If you ever need simple persistence for files, S3 is probably the answer. Many services in AWS are built around S3. So it makes sense to learn S3 first
+S3 is another deceptively versatile service, which allows you to store files in a flexible way. S3 can be used to host websites, store assets such as images, and even log files for your application. If you ever need simple persistence for files, S3 is probably the answer. Many services in AWS are built around S3. So it makes sense to learn S3 first.
+
+#### EC2
+EC2 is the flagship AWS product, and it’s where most of current AWS revenue comes from. EC2 stands for Elastic Compute Cloud think of it as a way to run a computer in the cloud. You can launch Linux machines, or Windows machines all on top of EC2. On EC2 you can run many different types of workloads. You can install WordPress, to run a website. Or you can install a database and store data, all directly on an EC2 machine. In fact, nearly everything you can imagine can be ran on EC2.
 
 ### Other Important AWS Services
 * CloudWatch — The built-in AWS monitoring tool.
