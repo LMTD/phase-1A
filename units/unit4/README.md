@@ -31,7 +31,7 @@ Cloud computing makes it less expensive upfront to scale out your operations. Th
 ### Types of Cloud Computing Services
 Offerings in the cloud are typically refered to as *services* and each service comes with its own advantages, disadvantages related to the amount of control and responsibilities over your resources you need to maintain. There are three primary types of cloud services we'll define more specifically below.
 
-![cloud service pyramid](https://www.microsoftpressstore.com/content/images/chap1_9780135732182/elementLinks/f01xx02.jpg)
+![cloud service pyramid](http://cloudonmove.com/wp-content/uploads/2017/07/Cloud-service-models-e1500291137271.png)
 
 #### Infrastructure as a Service (IaaS)
 Infrastructure refers to the physical hardware our applications use. IaaS refers to the process of leveraging virtualized infrastructure offered by a cloud provider. Provisioning an IaaS resource relies on a virtual machine created by the cloud service provider. In most systems you're able to customize the type of operating system and middleware you desire to use and you benefit from letting the cloud service provider manage the hardware infrastructure and networking requirements that allow you to connect to your virtual instances. IaaS offers the most flexibility allowing you to install your own software and components but you are responsible for securing, updating and maintaining that infrastructure yourself. 
