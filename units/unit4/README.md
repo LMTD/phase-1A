@@ -60,6 +60,7 @@ Deploying resources on-premises, using virtualization and resource management to
 AWS stands for Amazon Web Services. AWS is a range of computing products that allow you to operate tasks in the cloud, on demand. And currently, AWS have the biggest service offering of the cloud market, so you have everything from databases, to event queues, to basic website hosting.
 
 #### What is a Web Service?
+A web service is essentially an API to running software hosted by a Cloud Service Provider or another server.
 
 
 ### Core AWS Services
