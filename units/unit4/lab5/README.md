@@ -165,6 +165,7 @@ Your program should save a file called `yourname.html` to our class bucket in S3
 Please share a copy of your Github link via the Lab submission form shared in Slack when you've finished. 
 
 ## Resources
+* [My Example to Save S3](./example.py)
 * [Uploading files with boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html)
 * [Boto3, S3, AWS](https://realpython.com/python-boto3-aws-s3/)
 * [Writing HTML with Python](https://programminghistorian.org/en/lessons/creating-and-viewing-html-files-with-python)
