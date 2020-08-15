@@ -45,7 +45,7 @@ touch ~/.aws/config
 Add the following lines into the file:
 ```
 [default]
-region = YOUR_PREFERRED_REGION
+region = us-east-1
 
 ```
 
