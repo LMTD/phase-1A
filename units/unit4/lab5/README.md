@@ -45,7 +45,8 @@ touch ~/.aws/config
 Add the following lines into the file:
 ```
 [default]
-region = us-east-1
+region=us-east-1
+output=json
 
 ```
 
