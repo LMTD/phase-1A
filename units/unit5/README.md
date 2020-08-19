@@ -10,7 +10,12 @@ With the knowledge that you have there are a number of different areas that you 
 ## Project Objective
 Working with a group, your goal for this Lab is to use an Amazon EC2 server to host your python code that will allow you to interact with an API of your choosing and save data to the cloud.
 
-Your program has a few requirements: 1) Your program should use OOP python in some capacity 2) Your program needs to be able to run on your team's AWS EC2 server 3) Your program should use the `requests` module to interact with an API to bring in custom data 4) Your program should write some custom data to a file that can be saved in `S3` and 5) Your team must use git to store your code commits on multiple branches.
+Your program has a few requirements: 
+1) Your program should use OOP python in some capacity 
+2) Your program needs to be able to run on your team's AWS EC2 server 
+3) Your program should use the `requests` module to interact with an API to bring in custom data 
+4) Your program should write some custom data to a file that can be saved in `S3` 
+5) Your team must use git to store your code commits on multiple branches.
 
 You all can use any API you want to use but we will present some options that may spark some ideas. This Lab is an opportunity to build an application used for any real-world scenario of interest to your group. 
 
