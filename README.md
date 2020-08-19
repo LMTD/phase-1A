@@ -104,7 +104,7 @@ Week | Date | Content | README | Slides | Assigned | Due
 5 | 8/4 - 8/8 | Intro to AWS | [Unit 4](./units/unit4/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 1 | --
 6 | 8/11 - 8/15 | AWS Cloud Computing | [Unit 4](./units/unit4/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 2 | Project 1
 7 | 8/18 - 8/22 | AWS Cloud Computing | [Unit 4](./units/unit4/README.md) | [Slides](https://drive.google.com/drive/folders/1OCQcal4LEUfw1-TwtCfF12-1SmqpdyNR?usp=sharing) | Project 2 | --
-8 | 8/25 - 8/29 | Final Projects | -- | -- | Project 2 | Project 2
+8 | 8/25 - 8/29 | Final Projects | [Project Reqs](./units/unit5/README.md) | -- | [Final Project](./units/unit5/README.md) |
 
 Due
 -- | TBA | -- | -- | -- | Final Showcase
