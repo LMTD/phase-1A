@@ -55,3 +55,4 @@ We will provide you a folder to submit your final presentation slides. Everyone 
 * [Connect Python and React.js](https://www.fullstackpython.com/react.html)
 * [Simple CRUD app with React and Flask](https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react)
 * [Build Django To-Do List with PostgreSQL](https://www.youtube.com/watch?v=Nnoxz9JGdLU)
+* [Deploying Django apps with AWS](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)
