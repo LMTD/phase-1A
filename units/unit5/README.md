@@ -53,3 +53,4 @@ We will provide you a folder to submit your final presentation slides. Everyone 
 * [Full Stack Python with examples](https://www.fullstackpython.com/flask.html)
 * [Single Page Python CRUD app with a Vue.js Front End (full tutorial)](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
 * [Connect Python and React.js](https://www.fullstackpython.com/react.html)
+* [Simple CRUD app with React and Flask](https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react)
