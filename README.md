@@ -95,7 +95,7 @@ Student evaluations in this course will be assigned as follows:
 May change to accommodate guest presenters & student needs.
 
 Week | Date | Content | README | Assigned | Due
---|--|--|--|--|--|--
+--|--|--|--|--|--
 0 | 6/26 - 7/7 | Onboarding | -- | -- | [Precourse Work](./resources/precourse)
 1 | 7/9 - 7/11 | Linux OS | [Unit 1](./units/unit1/README.md) |[Lab 1](./units/unit1/lab/README.md) | [Lab 1](./units/unit1/lab/README.md)
 2 | 7/14 - 7/18 | Python Fundamentals | [Unit 2](./units/unit2/README.md) |[Lab 2](./units/unit2/lab2/README.md) | [Lab 2](./units/unit1/lab2/README.md)
